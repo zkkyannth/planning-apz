@@ -1,7 +1,6 @@
 Apz Resolusi
 - Konsisten dalam belajar
 - Tidak putus asa
-- Tancapkan sedalam - dalamnya tentang tujuan belajar programming
 - Selalu hadirkan niat baik
 - Jangan lupa berdoa
 - menjadi full stack developer
