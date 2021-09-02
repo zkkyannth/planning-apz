@@ -1,1 +1,4 @@
-ew
+Javascript Frameworks
+PHP Frameworks
+Struktur Data
+Fundamentals
