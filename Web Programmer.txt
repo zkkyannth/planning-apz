@@ -1,6 +1,6 @@
 Javascript Frameworks
  - React
- - Vue
+ - Angular
 PHP Frameworks
   - Laravel
 Struktur Data
