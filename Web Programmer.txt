@@ -1,4 +1,9 @@
 Javascript Frameworks
+ - Vue
+ - React
 PHP Frameworks
+ - Laravel
+ - CodeIgtiner
 Struktur Data
 Fundamentals
+Algorithm Programming
