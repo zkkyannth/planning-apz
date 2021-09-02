@@ -1,4 +1,7 @@
 Javascript Frameworks
+ - React
+ - Vue
 PHP Frameworks
+  - Laravel
 Struktur Data
 Fundamentals
